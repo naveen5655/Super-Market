@@ -29,10 +29,12 @@ python manage.py migrate
 
 
 ## Add Product
-![image](https://github.com/naveen5655/Super-Market/assets/89301294/e47196f1-4ad2-4fd2-8642-ea7624c4e714)
+![image](https://github.com/naveen5655/Super-Market/assets/89301294/b5db7d6b-eec5-474e-9ab9-61f2c418be7e)
+
 
 ## Product added
-![image](https://github.com/naveen5655/Super-Market/assets/89301294/f0e12c01-3d87-453d-9a98-99cbb255ed57)
+![image](https://github.com/naveen5655/Super-Market/assets/89301294/fc72164c-e858-4a4f-becc-e2682ead8d09)
+
 
 ## add Customer
 ![image](https://github.com/naveen5655/Super-Market/assets/89301294/2c802a36-9512-4ea7-b826-cd6358c5e520)
