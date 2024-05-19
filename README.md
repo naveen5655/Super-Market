@@ -42,6 +42,21 @@ python manage.py migrate
 ## customer added
 ![image](https://github.com/naveen5655/Super-Market/assets/89301294/cc012842-e167-446a-8446-0c02c3d736a7)
 
+## add orders 
+![image](https://github.com/naveen5655/Super-Market/assets/89301294/9cde8cc2-a6f8-4a8f-85e3-099aebf75a15)
+
+## Print Bill 
+![image](https://github.com/naveen5655/Super-Market/assets/89301294/50c3c3a5-c5ff-4fc8-a8a6-7b7e716c9c82)
+
+## Bill generated through pdf
+![image](https://github.com/naveen5655/Super-Market/assets/89301294/701ff5f4-092e-403b-bbf6-ec3d7b265cf3)
+
+## admin dashboard contains all bill details
+![image](https://github.com/naveen5655/Super-Market/assets/89301294/45c1e6c6-e10a-49f1-8027-dd2424b8ad6e)
+
+
+
+
 
 
 
