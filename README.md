@@ -1,6 +1,6 @@
 # Super Market
 
-I created this using Django Framework and used MYSQL database
+I created this using Django Framework and used MYSQL database.
 
 ### Set up Python environement
 ```
