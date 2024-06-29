@@ -54,6 +54,8 @@ python manage.py migrate
 ## admin dashboard contains all bill details
 ![image](https://github.com/naveen5655/Super-Market/assets/89301294/45c1e6c6-e10a-49f1-8027-dd2424b8ad6e)
 
+## Thank you for visiting the Repository.
+
 
 
 
